@@ -1,0 +1,93 @@
+body {
+    background-color: #ECFDF5;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Radio Canada', sans-serif;
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#hero-titleone {
+    margin-top: 115px;
+    margin-bottom: 0px;
+    color: #273549;
+    font-size: 40px;
+}
+
+#hero-titletwo {
+    color: #10B981;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 40px;
+}
+
+#info-el {
+    color: #6B7280;
+    font-family: 'Inter', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 51px;
+}
+
+.btn {
+    border-radius: 6px ;
+    border: none;
+    background: #10B981;
+    display: inline-flex;
+    padding: 9px 17px 9px 15px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    font-family: 'Inter', sans-serif;   
+    color: #FFF;
+}
+
+#line-breaker {
+    margin-top: 30px;
+    width: auto;
+    background-color: #273549;
+    height: 1px;   
+    border: none;
+}
+
+.options-class {
+    display: flex;
+    justify-content: space-between;
+}
+
+.options {
+    width: 180px;
+    height: 32px;
+    background-color: #273549;
+    border-radius: 6px;
+    border: none;
+    font-family: 'Inter', sans-serif;   
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+#first-option {
+    margin-right: 12px;
+}
+
+#second-option {
+    margin-left: 12px;
+}
+
+/*#option-two {
+    width: 221px;
+    height: 39px;
+    background-color: #273549;
+    border-radius: 6px;
+    border: none;
+    margin-left: 12px;
+    font-family: 'Inter', sans-serif;   
+    color: #FFF;
+}*/
+
